@@ -1,6 +1,6 @@
 <img title="Programming-.jpg" src="https://cdn.dribbble.com/users/2552489/screenshots/16773236/media/f9558e3a4f065c6be66d5d33564b2683.png" width="100%" height="350" >
 
-## Hi! 👋,
+### Hi! 👋,
 
 I'm a Full-Stack Web Developer who enjoys developing high-quality, maintainable software and creating intuitive user experiences. Over the years, I've worked in a mixture of roles, including Frontend Engineer, Backend Engineer, Data Analyst, and Systems Consultant.
 
@@ -15,9 +15,9 @@ Outside of technology, I love traveling ✈️, watching movies 🎬, and playi
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=koscee&show_icons=true&locale=en" alt="koscee" /></p> -->
+---
 
-
-## Tech Stack 🛠
+### Tech Stack 🛠
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=%231082C3)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -25,7 +25,7 @@ Outside of technology, I love traveling ✈️, watching movies 🎬, and playi
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=%231082C3)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 
-### Frontend
+#### Frontend
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
@@ -48,7 +48,7 @@ Outside of technology, I love traveling ✈️, watching movies 🎬, and playi
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-### Backend
+#### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Springboot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=springboot)&nbsp;
@@ -57,20 +57,20 @@ Outside of technology, I love traveling ✈️, watching movies 🎬, and playi
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
 
-### Databses
+#### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 
-### Testing
+#### Testing
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Mocha](https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=mocha)&nbsp;
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-05122A?style=flat&logo=react-testing-library)&nbsp;
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=puppeteer)
 
-### DevOps
+#### DevOps
 ![Bash Scripting](https://img.shields.io/badge/-Bash%20Scripting-05122A?style=flat&logo=gnubash)&nbsp;
 ![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
@@ -83,7 +83,7 @@ Outside of technology, I love traveling ✈️, watching movies 🎬, and playi
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat&logo=microsoftazure)&nbsp;
 ![ELK stack](https://img.shields.io/badge/-ELK%20stack-05122A?style=flat&logo=elasticstack)
 
-### Data Science and Analytics
+#### Data Science and Analytics
 ![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-05122A?style=flat&logo=apachesuperset)&nbsp;
 ![Metabase](https://img.shields.io/badge/-Metabase-05122A?style=flat&logo=metabase)&nbsp;
 ![Node-RED](https://img.shields.io/badge/-NodeRED-05122A?style=flat&logo=nodered&logoColor=%239F0000)&nbsp;
@@ -92,19 +92,19 @@ Outside of technology, I love traveling ✈️, watching movies 🎬, and playi
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
 
-### IDEs
+#### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
 
-### Operating Systems
+#### Operating Systems
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=macos)
 
-### Tools
+#### Tools
 ![ClickUp](https://img.shields.io/badge/-ClickUp-05122A?style=flat&logo=clickup)&nbsp;
 ![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
