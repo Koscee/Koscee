@@ -10,7 +10,7 @@ Tech wise I am dabbling in Java, Python, and Elastic Product suite. Beyond my pr
 
 Outside of technology, I love traveling ✈️, watching movies 🎬, and playing games 🎮. I believe in living a balanced life and finding inspiration in every moment.
 
-📬 Feel free to connect with me here on GitHub or reach out via DM on [LinkedIn](https://linkedin.com/in/kosceea). I'm always open to discussing new ideas 💡, collaborating on projects, or simply sharing a virtual cup of tea ☕!
+📬 Feel free to connect with me here on GitHub or reach out via DM on [LinkedIn](https://www.linkedin.com/in/koscee-a-268848302). I'm always open to discussing new ideas 💡, collaborating on projects, or simply sharing a virtual cup of tea ☕!
 <br />
 
 
