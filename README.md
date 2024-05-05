@@ -2,13 +2,13 @@
 
 ### Hi! 👋,
 
-I'm a Full-Stack Web Developer who enjoys developing high-quality, maintainable software and creating intuitive user experiences. Over the years, I've worked in a mixture of roles, including Frontend Engineer, Backend Engineer, Data Analyst, and Systems Consultant.
+I'm a Full-Stack Web Developer who enjoys developing high-quality, maintainable software and creating intuitive user experiences. Over the years, I've worked in a mixture of roles, including Frontend Engineer, Backend Engineer, Data Analyst, and System Consultant.
 
 I've developed my skills in several web technologies, including React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Docker, Nginx, and more. Whether it's developing custom websites based on customer requirements or analyzing data, I thrive on tackling complex problems and delivering innovative solutions.
 
 Tech wise I am dabbling in Java, Python, and Elastic Product suite. Beyond my professional endeavors, I love learning new technologies. I have a strong commitment to knowledge sharing and continuous learning.
 
-Outside of technology, I love traveling ✈️, watching movies 🎬, and playing games 🎮. I believe in living a balanced life and finding inspiration in every moment.
+Outside work, I love traveling ✈️, watching movies 🎬, and playing games 🎮. I believe in living a balanced life and finding inspiration in every moment.
 
 📬 Feel free to connect with me here on GitHub or reach out via DM on [LinkedIn](https://www.linkedin.com/in/koscee-a-268848302). I'm always open to discussing new ideas 💡, collaborating on projects, or simply sharing a virtual cup of tea ☕!
 <br />
